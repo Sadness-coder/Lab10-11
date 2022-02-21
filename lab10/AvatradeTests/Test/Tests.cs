@@ -14,35 +14,35 @@ namespace AvatradeTests.Test
     public class Tests : CommonConditions
     {
         private const string ExpectedAddition = "TSLA";
-        //[Test]
-        //public void AddStockInPortfolio()
-        //{
-        //    bool main = new MainMenuPageObject(driver).
-        //        SwitchToMyPortfolios().
-        //        SwitchMyWatchlist().
-        //        AddStock(ExpectedAddition);
-        //    Log.Info(main.ToString());
-        //    Assert.IsFalse(main);
-        //}
-        //[Test]
-        //public void DeleteStockInPortfolio()
-        //{
-        //    var main = new MainMenuPageObject(driver).
-        //        SwitchToMyPortfolios().
-        //        SwitchMyWatchlist().
-        //        DeleteStock();
-        //    Log.Info(main.ToString());
-        //    Assert.IsFalse(main);
-        //}
         [Test]
-        public void EditName()
+        public void AddStockInPortfolio()
         {
-            string main = new MainMenuPageObject(driver).
-                ClickMore().
-                AccButton().
-                EditName().
-                NameAccount();
-            Assert.AreEqual("pudge", main);
+            bool main = new MainMenuPageObject(driver).
+                SwitchToMyPortfolios().
+                SwitchMyWatchlist().
+                AddStock(ExpectedAddition);
+            Log.Info(main.ToString());
+            Assert.IsFalse(main);
         }
+        [Test]
+        public void DeleteStockInPortfolio()
+        {
+            var main = new MainMenuPageObject(driver).
+                SwitchToMyPortfolios().
+                SwitchMyWatchlist().
+                DeleteStock();
+            Log.Info(main.ToString());
+            Assert.IsFalse(main);
+        }
+        //[Test]
+        //public void EditName()
+        //{
+        //    string main = new MainMenuPageObject(driver).
+        //        ClickMore().
+        //        AccButton().
+        //        EditName().
+        //        NameAccount();
+        //    Assert.AreEqual("pudge", main);
+        //}
     }
 }
