@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cT4CBI6bExrQwYMSLGifDCs/JtbGOQd0jazwE3RR8CcsOfs8MdJMamUTdpV0etAxh89fYpd5vTZWDY3+gDr8Zg==",
+  "dgSpecHash": "lvksvXfVnqIUO2DBy/QBNirpc9THqoO21RG1OJUHyPVdyhqhHIAJbmRZTKYipKYe4yJPJKKrL+a7S5r2GAw9WA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
+  "projectFilePath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\slavi\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\slavi\\.nuget\\packages\\fluentassertions\\6.5.1\\fluentassertions.6.5.1.nupkg.sha512",

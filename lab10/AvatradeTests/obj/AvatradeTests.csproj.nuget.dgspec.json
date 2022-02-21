@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\AvatradeTests.csproj": {}
+    "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\AvatradeTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\AvatradeTests.csproj": {
+    "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\AvatradeTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
+        "projectUniqueName": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
         "projectName": "AvatradeTests",
-        "projectPath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
+        "projectPath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\AvatradeTests.csproj",
         "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\lab10.1\\lab10\\AvatradeTests\\obj\\",
+        "outputPath": "C:\\Users\\slavi\\OneDrive\\Рабочий стол\\1\\lab10\\AvatradeTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
